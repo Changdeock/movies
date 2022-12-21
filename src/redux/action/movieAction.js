@@ -6,6 +6,7 @@ function getMovies(){
     return async (dispatch)=>{
         try
         {
+            "adsfasd"
             dispatch(
                 {type : "GET_MOVIES_REQUEST"}
             )
